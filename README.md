@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./public/vite-mod-fed.png" width="80%" />
+    <img src="./assets/vite-mod-fed.png" width="80%" />
     <h1> Vite React-Rollup Apps Using Module Federation </h1>
 </div>
 
